@@ -1,3 +1,12 @@
+
+/* Treehouse FSJS Techdegree
+ * Project 4 - Public Api Requests
+ * By Justin Black
+ 
+ Going for meet expecatations
+ */
+ 
+
 const cardProfile = document.getElementById("gallery"); 
 const userData = fetchAPI("https://randomuser.me/api/?results=12");
 let exit_btn = "";
