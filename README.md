@@ -1,4 +1,4 @@
-#Project 5 
+#Employee Directory
 
 With this project, a employee directory app will be created. In here you will find:
 - Requests for using a public API. 
