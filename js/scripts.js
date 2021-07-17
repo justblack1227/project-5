@@ -1,9 +1,7 @@
 
-/* Treehouse FSJS Techdegree
- * Project 4 - Public Api Requests
+/* Project
+ * Public Api Requests
  * By Justin Black
- 
- Going for meet expecatations
  */
  
 
